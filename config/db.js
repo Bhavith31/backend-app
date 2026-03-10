@@ -51,3 +51,12 @@ export default dbConnect;
 //     image: "/images/8.PNG",
 //   }
 // ]);
+
+// db.products.insertOne([
+//   {
+//     name: "Product 6",
+//     description: "Description for product 6",
+//     price: 699,
+//     image: "/images/6.PNG",
+//   },
+// ]);
