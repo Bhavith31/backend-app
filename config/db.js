@@ -60,3 +60,10 @@ export default dbConnect;
 //     image: "/images/6.PNG",
 //   },
 // ]);
+
+// db.products.insertOne({
+//   name: "Product 7",
+//   description: "Description for product 7",
+//   price: 799,
+//   image: "/images/7.PNG"
+// })
